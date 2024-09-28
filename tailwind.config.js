@@ -18,6 +18,7 @@ module.exports = {
         },
         blue: {
           DEFAULT: '#3671E9',
+          tertiary: '#51d0de',
           hover: '#2766E6',
         },
         gray: {

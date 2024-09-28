@@ -1,7 +1,7 @@
 // import images
 import BitconImg from './assets/img/bitcon.png';
-import EthereumImg from './assets/img/ethereum.png';
-import LitecoinImg from './assets/img/litecoin.png';
+import SolanaImg from './assets/img/Solana_img.png';
+import ZetacoinImg from './assets/img/Zeta_img.png';
 
 export const navData = [
   {
@@ -31,16 +31,16 @@ export const currency = [
       'Digital currency in which a record of transactions is maintained.',
   },
   {
-    image: EthereumImg,
-    name: 'Ethereum',
-    abbr: 'ETH',
+    image: SolanaImg,
+    name: 'Solana',
+    abbr: 'SOL',
     description:
       'Blockchain technology to create and run decentralized digital applications.',
   },
   {
-    image: LitecoinImg,
-    name: 'Litecoin',
-    abbr: 'LTC',
+    image: ZetacoinImg,
+    name: 'Zeta',
+    abbr: 'ZET',
     description:
       'Cryptocurrency that enables instant payments to anyone in the world.',
   },
